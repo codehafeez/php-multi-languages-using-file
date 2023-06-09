@@ -14,7 +14,7 @@ http://localhost/php-multi-languages-using-file
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/php-multi-languages-google/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/php-multi-languages-using-file/main/Screenshots/Output.png)
 
 
 ## 🔗 www.codehafeez.com
